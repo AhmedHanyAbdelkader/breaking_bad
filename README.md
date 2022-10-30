@@ -1,16 +1,13 @@
-# breaking_bad
+[![Screenshot-20221030-050725-1.jpg](https://i.postimg.cc/Nf3tfxGJ/Screenshot-20221030-050725-1.jpg)](https://postimg.cc/2V7M0hZh)
 
-A new Flutter project.
 
-## Getting Started
+[![Screenshot-20221030-050731-1.jpg](https://i.postimg.cc/fLCWVSq3/Screenshot-20221030-050731-1.jpg)](https://postimg.cc/bDGfMrh8)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+[![Screenshot-20221030-050752-1.jpg](https://i.postimg.cc/rpCMHtkh/Screenshot-20221030-050752-1.jpg)](https://postimg.cc/QBt29CV5)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Screenshot-20221030-050800-1.jpg](https://i.postimg.cc/mkqs9YYr/Screenshot-20221030-050800-1.jpg)](https://postimg.cc/YL1ZKmyc)
+
+
+[![Screenshot-20221030-050915-1.jpg](https://i.postimg.cc/d1VPSHn1/Screenshot-20221030-050915-1.jpg)](https://postimg.cc/XZmzrgRS)
